@@ -314,13 +314,3 @@ The project provided hands-on experience in taking an AI application from indivi
 
 ---
 
-## ⭐ If You Find This Project Interesting
-
-Feel free to explore the repository, experiment with the application, and connect with me to discuss **Generative AI, RAG systems, AI agents, and software development**.
-
-### 👤 Author
-
-**Rounak Pathekar**
-
-* GitHub: [@rounak3110](https://github.com/rounak3110)
-* LinkedIn: [Rounak Pathekar](https://www.linkedin.com/in/rounak-pathekar-01baa8327/)
