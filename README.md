@@ -1,4 +1,5 @@
-LANGBOT: An-Advance-AI-Chatbot
+
+🤖 LangBot — An Advnace AI Assistant
 
 > **A conversational AI assistant built to go beyond simple chat — combining RAG, persistent memory, intelligent tools, and an interactive interface into one unified experience.**
 
